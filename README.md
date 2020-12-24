@@ -9,5 +9,7 @@
 
 :information_source: The collected table looks like this : </br>
 ![Collected data](img/Scraped_table.PNG) </br>
+The mail looks like this : </br>
+![CMail](img/Mail.PNG) </br>
 
 :information_source: Info/contact : sebcararo@hotmail.fr
