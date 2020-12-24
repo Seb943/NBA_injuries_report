@@ -5,6 +5,9 @@ import pandas as pd
 from datetime import date
 
 global driver
+
+from Send_mail import *
+
 driver = webdriver.Chrome(executable_path = "C:\\Users\\Utilisateur\\Desktop\\scrapeOP-master\\chromedriver_win32\\chromedriver.exe")
 driver.get('https://www.rotoworld.com/basketball/nba/injury-report')
 
@@ -35,10 +38,15 @@ for team in range(1, 31):
         info = collect_info_line(team, i)
         if info[1] is not None:
             Injuries.append(info)
-        else:
+        else: # if we have info[1] is None it means that there is no more injuries for this team : we go to next team
             break
 
-########################## III - Save the csv
+########################## III - Save the csv and send by mail
 Injuries = pd.DataFrame(Injuries)
 Injuries.columns = ['Team', 'Player', 'Position', 'Status', 'News date', 'Injury', 'Return date']
 Injuries.to_csv('Injuries_report_{}.csv'.format(date.today()), index = False, sep = ';')
+
+send_mail_csv(file_path = 'Injuries_report_{}.csv'.format(date.today()))
+driver.quit()
+
+
