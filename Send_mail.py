@@ -9,7 +9,7 @@ from email.mime.image import MIMEImage
 
 from datetime import date
 
-def send_mail_csv(file_path, ):
+def send_mail_csv(file_path):
     context = ssl.create_default_context()
 
     msg = MIMEMultipart('alternative')
