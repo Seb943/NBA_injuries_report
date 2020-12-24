@@ -1,0 +1,71 @@
+Team;Player;Position;Status;News date;Injury;Return date
+ATLANTA;Rajon Rondo;PG;Sidelined;Dec 22, 2020;Medical Protocols;Day-to-day
+ATLANTA;Kevin Huerter;SG;Active;Dec 22, 2020;Elbow;Day-to-day
+ATLANTA;Clint Capela;C;Sidelined;Dec 22, 2020;Achilles;Day-to-day
+ATLANTA;Tony Snell;SF;Sidelined;Dec 17, 2020;Foot;Day-to-day
+ATLANTA;Onyeka Okongwu;PF;Sidelined;Dec 8, 2020;Foot;Day-to-day
+ATLANTA;Kris Dunn;PG;Sidelined;Jan 31, 2020;Knee;Day-to-day
+BOSTON;Tacko Fall;C;Sidelined;Dec 22, 2020;Eye;Day-to-day
+BOSTON;Kemba Walker;PG;Sidelined;Dec 1, 2020;Knee;Targeting January?
+BOSTON;Romeo Langford;SG;Sidelined;Sep 17, 2020;Wrist;Targeting late-January, early-February
+BROOKLYN;Nicolas Claxton;PF;Sidelined;Dec 6, 2020;Knee;Out indefinitely
+BROOKLYN;Jamal Crawford;SG;Sidelined;Aug 4, 2020;Hamstring;Out indefinitely
+CHARLOTTE;Cody Zeller;C;Sidelined;Dec 23, 2020;Hand;Week-to-week
+CHARLOTTE;Grant Riller;PG;Sidelined;Dec 14, 2020;Knee;Day-to-day
+CHICAGO;Thaddeus Young;PF;Sidelined;Dec 11, 2020;Leg;Day-to-day
+CLEVELAND;Dylan Windler;SF;Sidelined;Dec 23, 2020;Head;Day-to-day
+CLEVELAND;Dante Exum;PG;Sidelined;Dec 16, 2020;Hip;Day-to-day
+CLEVELAND;Kevin Love;PF;Sidelined;Dec 16, 2020;Calf;Day-to-day
+CLEVELAND;Matthew Dellavedova;PG;Sidelined;Dec 13, 2020;Back;Day-to-day
+CLEVELAND;Kevin Porter Jr.;SG;Sidelined;Dec 12, 2020;Personal;Day-to-day
+DALLAS;Kristaps Porzingis;C;Sidelined;Aug 22, 2020;Knee surgery;Targeting late January
+DENVER;JaMychal Green;PF;Sidelined;Dec 17, 2020;Calf;Day-to-day
+DENVER;Greg Whittington;PF;Sidelined;Dec 12, 2020;Knee;Day-to-day
+GOLDEN STATE;Draymond Green;PF;Sidelined;Dec 19, 2020;Foot;Doubtful for first two games of season
+GOLDEN STATE;Alen Smailagic;PF;Questionable;Dec 13, 2020;Knee;Day-to-day
+GOLDEN STATE;Klay Thompson;SG;Sidelined;Nov 19, 2020;Achilles;Out for 2020-21 season
+HOUSTON;DeMarcus Cousins;C;Sidelined;Dec 23, 2020;Medical Protocols;Day-to-day
+HOUSTON;KJ Martin;SF;Sidelined;Dec 23, 2020;COVID-19;Day-to-day
+HOUSTON;Jae'Sean Tate;SF;Sidelined;Dec 23, 2020;Medical Protocols;Day-to-day
+HOUSTON;John Wall;PG;Sidelined;Dec 23, 2020;Medical Protocols;Day-to-day
+HOUSTON;Ben McLemore;SG;Sidelined;Dec 22, 2020;COVID-19;Day-to-day
+HOUSTON;Chris Clemons;PG;Sidelined;Dec 15, 2020;Achilles;Out indefinitely
+INDIANA;Goga Bitadze;C;Sidelined;Dec 21, 2020;Ankle;Week-to-week
+INDIANA;Brian Bowen;SF;Sidelined;Dec 10, 2020;Groin;Targeting late January
+INDIANA;Jeremy Lamb;SG;Sidelined;Feb 23, 2020;Knee;Targeting mid-to-late January
+INDIANA;Tyreke Evans;SG;Suspended;May 17, 2019;Personal;Out until 2020-21 season
+LOS ANGELES;Jay Scrubb;SG;Sidelined;Dec 22, 2020;Foot;Out indefinitely
+LOS ANGELES;Marcus Morris;PF;Sidelined;Dec 15, 2020;Knee;Day-to-day
+LOS ANGELES;LeBron James;PG;Probable;Dec 22, 2020;Ankle;Day-to-day
+MEMPHIS;Xavier Tillman;PF;Sidelined;Dec 14, 2020;Knee;Week-to-week
+MEMPHIS;Killian Tillie;C;Sidelined;Dec 12, 2020;Hamstring;Day-to-day
+MEMPHIS;Jaren Jackson Jr.;PF;Sidelined;Aug 3, 2020;Knee;Out indefinitely
+MEMPHIS;Justise Winslow;PG;Sidelined;Jul 20, 2020;Hip;Out indefinitely
+MEMPHIS;Jontay Porter;C;Doubtful;Mar 8, 2020;Knee;Out indefinitely
+MIAMI;Chris Silva;PF;Sidelined;Aug 29, 2020;Pelvis;Out indefinitely
+MILWAUKEE;D.J. Augustin;PG;Sidelined;Dec 18, 2020;Calf;Day-to-day
+MINNESOTA;Jaylen Nowell;SG;Sidelined;Dec 22, 2020;Ankle;Out indefinitely
+NEW ORLEANS;Wenyen Gabriel;SF;Sidelined;Dec 13, 2020;Knee;Week-to-week
+NEW YORK;Immanuel Quickley;PG;Sidelined;Dec 23, 2020;Hip;Day-to-day
+NEW YORK;Omari Spellman;PF;Sidelined;Dec 22, 2020;Knee;Day-to-day
+NEW YORK;Austin Rivers;PG;Sidelined;Dec 7, 2020;Groin;Day-to-day
+OKLAHOMA CITY;Ty Jerome;PG;Sidelined;Dec 22, 2020;Ankle;Day-to-day
+OKLAHOMA CITY;Theo Maledon;PG;Sidelined;Dec 22, 2020;Personal;Day-to-day
+OKLAHOMA CITY;Trevor Ariza;SF;Sidelined;Dec 6, 2020;Personal;Out indefinitely
+OKLAHOMA CITY;Darius Miller;SF;Sidelined;Aug 29, 2019;achilles;Out indefinitely
+ORLANDO;James Ennis;SG;Sidelined;Dec 11, 2020;Calf;Day-to-day
+ORLANDO;Jonathan Isaac;SF;Sidelined;Aug 2, 2020;Knee;Out indefinitely
+ORLANDO;Mo Bamba;C;Sidelined;Jun 1, 2020;COVID-19;Out indefinitely
+ORLANDO;Al-Farouq Aminu;PF;Sidelined;Dec 1, 2019;Knee;Out Indefinitely
+PHOENIX;Frank Kaminsky;C;Sidelined;Dec 23, 2020;Undisclosed;Day-to-day
+PHOENIX;Abdel Nader;SG;Sidelined;Dec 15, 2020;Head;Day-to-day
+PHOENIX;Dario Saric;PF;Sidelined;Dec 12, 2020;Quadriceps;Day-to-day
+PORTLAND;Nassir Little;SF;Sidelined;Dec 20, 2020;Personal;Day-to-day
+PORTLAND;Anfernee Simons;SG;Sidelined;Dec 11, 2020;Hamstring;Day-to-day
+PORTLAND;Zach Collins;C;Sidelined;Aug 17, 2020;Ankle;Targeting mid-to-late January
+SACRAMENTO;DaQuan Jeffries;SF;Sidelined;Dec 15, 2020;Back;Day-to-day
+SACRAMENTO;Jabari Parker;PF;Sidelined;Dec 11, 2020;Back;Day-to-day
+SAN ANTONIO;Quinndary Weatherspoon;SG;Sidelined;Oct 6, 2020;Knee;Targeting start of 2021-22 season
+SAN ANTONIO;Derrick White;PG;Sidelined;Aug 21, 2020;Toe;Out indefinitely
+TORONTO;Patrick McCaw;SG;Sidelined;Jul 26, 2020;Knee;Out indefinitely
+WASHINGTON;Rui Hachimura;PF;Sidelined;Dec 15, 2020;Eye;Week-to-week
