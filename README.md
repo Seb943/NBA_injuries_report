@@ -7,4 +7,6 @@ Collect NBA injuries report, organize them in an elegant table, then send it via
 1. Run the code :+1:
 
 :information_source: The collected table looks like this : </br>
-![Collected data](img/Scraped_table.PNG)
+![Collected data](img/Scraped_table.PNG) </br>
+
+:information_source: Info/contact : sebcararo@hotmail.fr
