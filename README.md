@@ -5,7 +5,7 @@
 1. Download/clone the repository 
 1. Set your Chrome driver location on line 11 of <i>Scrape_NBA_injuries.py</i>
 1. Set your e-mail address on line 18 in <i>Send_mail.py</i>
-1. Run the code :+1:
+1. Run <i>Scrape_NBA_injuries.py</i> :+1:
 
 :information_source: The collected table looks like this : </br>
 ![Collected data](img/Scraped_table.PNG) </br>
