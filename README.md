@@ -3,7 +3,7 @@
 
 :information_source: Utilization:
 1. Download/clone the repository 
-1. Set your Chrome driver location on line 11 of <i>Scrape_NBA_injuries_beta.py</i>
+1. Set your Chrome driver location on line 11 of <i>Scrape_NBA_injuries.py</i>
 1. Set your e-mail address on line 18 in <i>Send_mail.py</i>
 1. Run the code :+1:
 
