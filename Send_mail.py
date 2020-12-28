@@ -1,5 +1,3 @@
-# Sending an email in Python
-
 import mimetypes
 import smtplib, ssl
 
