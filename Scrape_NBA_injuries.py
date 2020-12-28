@@ -1,4 +1,4 @@
-# Scrape NBA injuries news and send the recapitulative table by mail
+# Scrape NBA injuries news and send the recapitulative table by mail : https://github.com/Seb943/NBA_injuries_report
 import os
 from selenium import webdriver
 import pandas as pd
