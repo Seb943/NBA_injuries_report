@@ -12,4 +12,4 @@
 The mail looks like this : </br>
 ![CMail](img/Mail.PNG) </br>
 
-:information_source: Info/contact : sebcararo@hotmail.fr
+:information_source: Please report any bug/issue in the *issues* section or directly at sebcararo@hotmail.fr (Any feedback is really appreciated :speech_balloon: :+1:). A :star2: is also greatly appreciated :raised_hands:. </br>
