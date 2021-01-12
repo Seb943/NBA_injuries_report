@@ -14,4 +14,5 @@ The mail looks like this : </br>
 
 :information_source: Medium article : https://medium.com/analytics-vidhya/monitoring-nba-injuries-with-python-bf05ea2aec68</br>
 
-:information_source: Please report any bug/issue in the *issues* section or directly at sebcararo@hotmail.fr (Any feedback is really appreciated :speech_balloon: :+1:). A :star2: is also greatly appreciated :raised_hands:. </br>
+:information_source: Please report any bug/issue in the *issues* section or directly at sebcararo@hotmail.fr. Any feedback is really appreciated :speech_balloon: :+1:. </br>
+
